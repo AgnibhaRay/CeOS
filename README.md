@@ -4,7 +4,7 @@ Finally its here‼‼‼. This is a custom ROM made from [Android Open Source P
 This a highly advanced operating system based on Android. This uses a technology called Mini-G to get all the google features without even google storing your data.
 # Why Made This?🙄
 This operating system mainly focuses on giving your fundamental right of privacy and also to give all of our users a smooth experience even with a low end chip. We use a specific 
-technology to achieve both of our goals is by creating an inhouse software named Mini-G. 
+technology to achieve both of our goals by creating an inhouse software named Mini-G. 
 # What is Mini-G?🤔🤨
 Mini-G is a highly advanced technology which lets you use Google services and simultaneously blocking the google tracking services from tracking your personal data. Mini-G is 
 an Open Source Project whose code will be live on GitHub soon.
