@@ -14,15 +14,15 @@ No. 1) All your data is safe with you. Your data isn't sold to the Ad Companies 
 No. 2) This is 15x faster than regular Android as it can run very smoothly even on a dual core chip.
 
 # Languages Used ❓
-Core- Objective C, C and C++ <br />
-UI- Java
+Core- [Objective C](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html), [C](https://en.wikipedia.org/wiki/C_(programming_language)) and [C++](https://en.wikipedia.org/wiki/C%2B%2B) <br />
+UI- [Java](https://www.java.com/en/)
 
 # Superhero behind the scene 🦸‍♂️
 [@agnibharay](https://www.instagram.com/agnibharay/)<br />
 Follow Me!😁
 
 # For the people who think its fake or copied😂
-We actually have a license bro. its Apache License 2.0 and according to this license I own the copyrights and patents of this Operating System😉.
+We actually have a license bro. its Apache License 2.0 and according to this license I own the copyrights and patents of this Operating System😎.
 Check with your own eyes by [Clicking here](https://github.com/AgnibhaRay/CeOS/blob/main/LICENSE)
 
 # Install it 
@@ -30,15 +30,18 @@ Check with your own eyes by [Clicking here](https://github.com/AgnibhaRay/CeOS/b
 both the versions 32 and 64 bit are available
 
 
-# Minimum Requirements to run CeOS
-You just need a smartphone and its good to go😅😁 <br />
-For Tech Geeks😉  Here's the info <br />
+# Minimum Requirements to run CeOS 📲
+You just need a smartphone📱 and its good to go😅😁 <br />
+For Tech Geek🤓  Here's the info <br />
 CPU- dual core ARM chip <br />
 GPU- Integrated <br />
 RAM - 1GB <br />
 Storage- 8GB <br />
 
 Thatsss Alll you need😁😁😍😍
+
+# Update System
+Using AWS for pushing the latest update to your device.
 
 # Screenshots
 
