@@ -17,7 +17,7 @@ The main differences are <br />
 Core - [`Objective-C`](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html), [`C`](https://en.wikipedia.org/wiki/C_(programming_language)) and [`C++`](https://en.wikipedia.org/wiki/C%2B%2B) <br />
 UI - [`Java`](https://www.java.com/en/)
 
-# Superhero behind the scene 🦸‍♂️
+# Superheroes behind the scene 🦸‍♂️
 [@agnibharay](https://www.instagram.com/agnibharay/)<br />
 [@abhishekkumar.me](https://www.instagram.com/abhishekumar.me/)<br />
 Follow Us!😁
