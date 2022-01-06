@@ -19,7 +19,8 @@ UI - [`Java`](https://www.java.com/en/)
 
 # Superhero behind the scene 🦸‍♂️
 [@agnibharay](https://www.instagram.com/agnibharay/)<br />
-Follow Me!😁
+[@abhishekkumar.me](https://www.instagram.com/abhishekumar.me/)<br />
+Follow Us!😁
 
 # For the people who think its fake or copied😂
 We actually have a license bro. its Apache License 2.0 and according to this license I own the copyrights and patents of this Operating System😎.
