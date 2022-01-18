@@ -1,5 +1,5 @@
 # CeOS
-Finally its here‼‼‼. This is a custom ROM made from [Android Open Source Project](https://cs.android.com/android/platform/superproject/)
+Finally its here‼‼‼. This is a custom ROM made from [`Android Open Source Project`](https://cs.android.com/android/platform/superproject/)
 # Overview😁
 This a highly advanced operating system based on Android. This uses a technology called Mini-G to get all the google features without even google storing your data.
 # Why Made This?🙄
@@ -27,10 +27,11 @@ We actually have a license bro. its Apache License 2.0 and according to this lic
 Check with your own eyes by [Clicking here](https://github.com/AgnibhaRay/CeOS/blob/main/LICENSE)
 
 # Install it 
-[`32 bit`](https://github.com/AgnibhaRay/CeOS/releases/tag/v1.0)
+[`32 bit`](https://github.com/AgnibhaRay/CeOS/releases/tag/v2.0)
  and 
-[`64 bit`](https://github.com/AgnibhaRay/CeOS/releases/tag/v1.0)
+[`64 bit`](https://github.com/AgnibhaRay/CeOS/releases/tag/v2.0)
  versions are available
+
 
 # Minimum System requirements to run CeOS 📲
 You just need a smartphone📱 and its good to go😅😁 <br />
@@ -39,20 +40,29 @@ For Tech Geek🤓 <br />Here's the info <br />
 
 | Hardware | Minimum Required |
 | --- | --- |
-| CPU | Dual Core ARM Chip |
+| CPU | Quad Core ARM Chip |
 | GPU | Integrated |
-| RAM | 1GB |
-| Storage | 8GB |
-
+| RAM | 2GB |
+| Storage | 16GB |
 
 Thatsss Alll you need😁😁😍😍
 
+***Having a Low-end smartphone? No issues at all install the*** [`v1.0`](https://github.com/AgnibhaRay/CeOS/releases/tag/v1.0)
+
 # Update System
-Using AWS for pushing the latest update to your device.
+**Using AWS for pushing the latest update to your device.**
 
 # Screenshots
+## Home Screen Screenshot <br>
+![Screenshot_20220118-125652](https://user-images.githubusercontent.com/64902131/149891506-171cc9d0-edd9-4b9b-9c9d-0e2887a087e2.png)
 
-Coming soon!!
+## App Drawer
+![Screenshot_20220118-125918](https://user-images.githubusercontent.com/64902131/149892797-2ee8bafc-ad4f-476f-b4a0-04ef62d22862.png) <br><br>
+***This OS comes with some pre installed apps which can be removed.***
+## Settings Page
+![Screenshot_20220118-130349](https://user-images.githubusercontent.com/64902131/149893114-5615a588-c33c-46c7-891e-b90c2eb0418a.png) 
 
-
+## Google Play (The premium part of the OS)
+![Screenshot_20220118-130423](https://user-images.githubusercontent.com/64902131/149893585-3fe42547-8bf9-42d1-9342-3eb294209ec2.png)<br><br>
+***The most amazing part of this operating system is that it uses an advanced technology called Mini G to give you all the necessary google features in your mobile***
 
