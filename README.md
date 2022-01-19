@@ -17,9 +17,11 @@ The main differences are <br />
 Core - [`Objective-C`](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html), [`C`](https://en.wikipedia.org/wiki/C_(programming_language)) and [`C++`](https://en.wikipedia.org/wiki/C%2B%2B) <br />
 UI - [`Java`](https://www.java.com/en/)
 
-# Superheroes behind the scene 🦸‍♂️
-[@agnibharay](https://www.instagram.com/agnibharay/)<br />
-Follow Us!😁
+# Superhero behind the scene 🦸‍♂️
+[`@agnibharay`](https://www.instagram.com/agnibharay/)<br />
+Follow Me!😁<br /><br />
+
+Also Follow Ce-OS Insta Page :[`@ceos2022`](https://www.instagram.com/ceos2022/)
 
 # For the people who think its fake or copied😂
 We actually have a license bro. its Apache License 2.0 and according to this license I own the copyrights and patents of this Operating System😎.
