@@ -19,7 +19,6 @@ UI - [`Java`](https://www.java.com/en/)
 
 # Superheroes behind the scene 🦸‍♂️
 [@agnibharay](https://www.instagram.com/agnibharay/)<br />
-[@abhishekkumar.me](https://www.instagram.com/abhishekumar.me/)<br />
 Follow Us!😁
 
 # For the people who think its fake or copied😂
